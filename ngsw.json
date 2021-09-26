@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632659147848,
+  "timestamp": 1632661869999,
   "index": "https://tausif71.github.io/pwa01/index.html",
   "assetGroups": [
     {
@@ -49,7 +49,7 @@
     {
       "name": "EConWebAPI",
       "patterns": [
-        "https:\\/\\/giws\\.saint-gobain\\.com\\/CPAPI_UAT\\/"
+        "https:\\/\\/giws\\.saint-gobain\\.com\\/CPAPI_UAT\\/.*"
       ],
       "strategy": "freshness",
       "maxSize": 20,
